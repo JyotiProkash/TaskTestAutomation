@@ -1,0 +1,80 @@
+2021-03-27 16:35:42 INFO  TestListener:65 -FeatureTest started.
+2021-03-27 16:35:54 INFO  TestListener:49 -verifyFunctionalityForBuyAmountAndSellAmountBoxEmpty started.
+2021-03-27 16:35:54 INFO  WaitHelper:23 -WaitHelper object is created.
+2021-03-27 16:35:54 INFO  JavaScriptHelper:31 -JavaScriptHelper has been initialised.
+2021-03-27 16:35:54 INFO  WaitHelper:23 -WaitHelper object is created.
+2021-03-27 16:35:54 INFO  DropDownHelper:25 -DropdownHelper object is created...
+2021-03-27 16:35:54 INFO  WaitHelper:139 -Waiting for :Proxy element for: DefaultElementLocator 'By.cssSelector: span.flag-icon-small.flag-icon-us'for :20 seconds
+2021-03-27 16:35:58 INFO  WaitHelper:142 -Element is visible.
+2021-03-27 16:35:58 INFO  WaitHelper:40 -Wait a browser to:8000
+2021-03-27 16:36:06 INFO  WaitHelper:40 -Wait a browser to:500
+2021-03-27 16:36:07 INFO  WaitHelper:40 -Wait a browser to:500
+2021-03-27 16:36:07 INFO  WaitHelper:40 -Wait a browser to:500
+2021-03-27 16:36:08 INFO  WaitHelper:40 -Wait a browser to:500
+2021-03-27 16:36:08 INFO  WaitHelper:40 -Wait a browser to:500
+2021-03-27 16:36:09 INFO  WaitHelper:40 -Wait a browser to:500
+2021-03-27 16:36:09 INFO  WaitHelper:40 -Wait a browser to:500
+2021-03-27 16:36:10 INFO  WaitHelper:40 -Wait a browser to:500
+2021-03-27 16:36:10 INFO  WaitHelper:40 -Wait a browser to:500
+2021-03-27 16:36:11 INFO  WaitHelper:40 -Wait a browser to:500
+2021-03-27 16:36:11 INFO  AssertionHelper:38 -Verifying record count: 31 with 31
+2021-03-27 16:36:11 INFO  TestListener:84 -verifyFunctionalityForBuyAmountAndSellAmountBoxEmpty passed.
+2021-03-27 16:36:12 INFO  TestListener:49 -verifyFunctionalityForSellAmountAndBuyAmountBoxEmpty started.
+2021-03-27 16:36:12 INFO  WaitHelper:23 -WaitHelper object is created.
+2021-03-27 16:36:12 INFO  JavaScriptHelper:31 -JavaScriptHelper has been initialised.
+2021-03-27 16:36:12 INFO  WaitHelper:23 -WaitHelper object is created.
+2021-03-27 16:36:12 INFO  DropDownHelper:25 -DropdownHelper object is created...
+2021-03-27 16:36:12 INFO  WaitHelper:139 -Waiting for :[[ChromeDriver: chrome on LINUX (979f10cb007d077584760282d57af01e)] -> css selector: span.flag-icon-small.flag-icon-us]for :20 seconds
+2021-03-27 16:36:12 INFO  WaitHelper:142 -Element is visible.
+2021-03-27 16:36:12 INFO  WaitHelper:40 -Wait a browser to:8000
+2021-03-27 16:36:20 INFO  WaitHelper:40 -Wait a browser to:500
+2021-03-27 16:36:21 INFO  WaitHelper:40 -Wait a browser to:500
+2021-03-27 16:36:21 INFO  WaitHelper:40 -Wait a browser to:500
+2021-03-27 16:36:22 INFO  WaitHelper:40 -Wait a browser to:500
+2021-03-27 16:36:22 INFO  WaitHelper:40 -Wait a browser to:500
+2021-03-27 16:36:23 INFO  WaitHelper:40 -Wait a browser to:500
+2021-03-27 16:36:23 INFO  WaitHelper:40 -Wait a browser to:500
+2021-03-27 16:36:24 INFO  WaitHelper:40 -Wait a browser to:500
+2021-03-27 16:36:24 INFO  WaitHelper:40 -Wait a browser to:500
+2021-03-27 16:36:25 INFO  WaitHelper:40 -Wait a browser to:500
+2021-03-27 16:36:25 INFO  AssertionHelper:38 -Verifying record count: 31 with 31
+2021-03-27 16:36:25 INFO  TestListener:84 -verifyFunctionalityForSellAmountAndBuyAmountBoxEmpty passed.
+2021-03-27 16:36:25 INFO  TestListener:49 -verifyCurrencyOptionChangedAndCurrencyRatesUpdatedBasedOnCountrySelected started.
+2021-03-27 16:36:25 INFO  WaitHelper:23 -WaitHelper object is created.
+2021-03-27 16:36:25 INFO  JavaScriptHelper:31 -JavaScriptHelper has been initialised.
+2021-03-27 16:36:25 INFO  WaitHelper:23 -WaitHelper object is created.
+2021-03-27 16:36:25 INFO  DropDownHelper:25 -DropdownHelper object is created...
+2021-03-27 16:36:25 INFO  JavaScriptHelper:70 -Scrolling Down Vertically...
+2021-03-27 16:36:25 INFO  WaitHelper:139 -Waiting for :[[ChromeDriver: chrome on LINUX (979f10cb007d077584760282d57af01e)] -> css selector: span.dropup]for :20 seconds
+2021-03-27 16:36:25 INFO  WaitHelper:142 -Element is visible.
+2021-03-27 16:36:26 INFO  WaitHelper:139 -Waiting for :[[ChromeDriver: chrome on LINUX (979f10cb007d077584760282d57af01e)] -> css selector: button#countries-dropdown]for :20 seconds
+2021-03-27 16:36:26 INFO  WaitHelper:142 -Element is visible.
+2021-03-27 16:36:26 INFO  WaitHelper:40 -Wait a browser to:1000
+2021-03-27 16:36:31 INFO  WaitHelper:153 -Waiting for page to load for :SECONDS seconds
+2021-03-27 16:36:31 INFO  WaitHelper:155 -Page is loaded.
+2021-03-27 16:36:31 INFO  JavaScriptHelper:70 -Scrolling Down Vertically...
+2021-03-27 16:36:31 INFO  WaitHelper:40 -Wait a browser to:5000
+2021-03-27 16:36:36 INFO  JavaScriptHelper:75 -Scrolling Up Vertically...
+2021-03-27 16:36:36 INFO  WaitHelper:40 -Wait a browser to:6000
+2021-03-27 16:36:42 INFO  AssertionHelper:26 -Verifying Currency Option: UAH with UAH
+2021-03-27 16:36:42 INFO  TestListener:84 -verifyCurrencyOptionChangedAndCurrencyRatesUpdatedBasedOnCountrySelected passed.
+2021-03-27 16:36:42 INFO  TestListener:49 -verifyLossAmountWhenBankProviderAmountForSellingIsLowerThanTheCompanyProvidedAmount started.
+2021-03-27 16:36:42 INFO  WaitHelper:23 -WaitHelper object is created.
+2021-03-27 16:36:42 INFO  JavaScriptHelper:31 -JavaScriptHelper has been initialised.
+2021-03-27 16:36:42 INFO  WaitHelper:23 -WaitHelper object is created.
+2021-03-27 16:36:42 INFO  DropDownHelper:25 -DropdownHelper object is created...
+2021-03-27 16:36:42 INFO  JavaScriptHelper:70 -Scrolling Down Vertically...
+2021-03-27 16:36:42 INFO  WaitHelper:139 -Waiting for :[[ChromeDriver: chrome on LINUX (979f10cb007d077584760282d57af01e)] -> css selector: span.dropup]for :20 seconds
+2021-03-27 16:36:42 INFO  WaitHelper:142 -Element is visible.
+2021-03-27 16:36:42 INFO  WaitHelper:139 -Waiting for :[[ChromeDriver: chrome on LINUX (979f10cb007d077584760282d57af01e)] -> css selector: button#countries-dropdown]for :20 seconds
+2021-03-27 16:36:42 INFO  WaitHelper:142 -Element is visible.
+2021-03-27 16:36:42 INFO  WaitHelper:40 -Wait a browser to:1000
+2021-03-27 16:36:52 INFO  WaitHelper:153 -Waiting for page to load for :SECONDS seconds
+2021-03-27 16:36:52 INFO  WaitHelper:155 -Page is loaded.
+2021-03-27 16:36:52 INFO  JavaScriptHelper:70 -Scrolling Down Vertically...
+2021-03-27 16:36:52 INFO  WaitHelper:40 -Wait a browser to:5000
+2021-03-27 16:36:57 INFO  JavaScriptHelper:75 -Scrolling Up Vertically...
+2021-03-27 16:36:57 INFO  WaitHelper:40 -Wait a browser to:6000
+2021-03-27 16:37:03 INFO  AssertionHelper:32 -Verifying amount: -4.99 with -4.99
+2021-03-27 16:37:03 INFO  TestListener:84 -verifyLossAmountWhenBankProviderAmountForSellingIsLowerThanTheCompanyProvidedAmount passed.
+2021-03-27 16:37:04 INFO  TestListener:183 -FeatureTest finished.

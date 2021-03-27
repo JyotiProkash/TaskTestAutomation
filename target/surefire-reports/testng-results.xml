@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="RegressionSuite" duration-ms="80780" started-at="2021-03-27T16:35:42 BDT" finished-at="2021-03-27T16:37:03 BDT">
+    <groups>
+    </groups>
+    <test name="FeatureTest" duration-ms="80780" started-at="2021-03-27T16:35:42 BDT" finished-at="2021-03-27T16:37:03 BDT">
+      <class name="com.hybridframework.qa.testpages.CurrencyConversionTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.hybridframework.qa.testpages.CurrencyConversionTest@711f39f9]" name="beforeSuite" is-config="true" duration-ms="12" started-at="2021-03-27T16:35:42 BDT" finished-at="2021-03-27T16:35:42 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.hybridframework.qa.testpages.CurrencyConversionTest@711f39f9]" name="beforeTest" is-config="true" duration-ms="0" started-at="2021-03-27T16:35:42 BDT" finished-at="2021-03-27T16:35:42 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="initiation()[pri:0, instance:com.hybridframework.qa.testpages.CurrencyConversionTest@711f39f9]" name="initiation" is-config="true" duration-ms="11098" started-at="2021-03-27T16:35:42 BDT" finished-at="2021-03-27T16:35:54 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiation -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.hybridframework.qa.testpages.CurrencyConversionTest@711f39f9]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-03-27T16:35:54 BDT" finished-at="2021-03-27T16:35:54 BDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.hybridframework.qa.testpages.CurrencyConversionTest.verifyFunctionalityForBuyAmountAndSellAmountBoxEmpty() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyFunctionalityForBuyAmountAndSellAmountBoxEmpty()[pri:1, instance:com.hybridframework.qa.testpages.CurrencyConversionTest@711f39f9]" name="verifyFunctionalityForBuyAmountAndSellAmountBoxEmpty" duration-ms="17953" started-at="2021-03-27T16:35:54 BDT" finished-at="2021-03-27T16:36:11 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFunctionalityForBuyAmountAndSellAmountBoxEmpty -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.hybridframework.qa.testpages.CurrencyConversionTest@711f39f9]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-03-27T16:36:12 BDT" finished-at="2021-03-27T16:36:12 BDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyFunctionalityForBuyAmountAndSellAmountBoxEmpty status=SUCCESS method=CurrencyConversionTest.verifyFunctionalityForBuyAmountAndSellAmountBoxEmpty()[pri:1, instance:com.hybridframework.qa.testpages.CurrencyConversionTest@711f39f9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="verifyFunctionalityForSellAmountAndBuyAmountBoxEmpty()[pri:2, instance:com.hybridframework.qa.testpages.CurrencyConversionTest@711f39f9]" name="verifyFunctionalityForSellAmountAndBuyAmountBoxEmpty" duration-ms="13602" started-at="2021-03-27T16:36:12 BDT" finished-at="2021-03-27T16:36:25 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFunctionalityForSellAmountAndBuyAmountBoxEmpty -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.hybridframework.qa.testpages.CurrencyConversionTest@711f39f9]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-03-27T16:36:12 BDT" finished-at="2021-03-27T16:36:12 BDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.hybridframework.qa.testpages.CurrencyConversionTest.verifyFunctionalityForSellAmountAndBuyAmountBoxEmpty() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.hybridframework.qa.testpages.CurrencyConversionTest@711f39f9]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-03-27T16:36:25 BDT" finished-at="2021-03-27T16:36:25 BDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyFunctionalityForSellAmountAndBuyAmountBoxEmpty status=SUCCESS method=CurrencyConversionTest.verifyFunctionalityForSellAmountAndBuyAmountBoxEmpty()[pri:2, instance:com.hybridframework.qa.testpages.CurrencyConversionTest@711f39f9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.hybridframework.qa.testpages.CurrencyConversionTest@711f39f9]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-03-27T16:36:25 BDT" finished-at="2021-03-27T16:36:25 BDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.hybridframework.qa.testpages.CurrencyConversionTest.verifyCurrencyOptionChangedAndCurrencyRatesUpdatedBasedOnCountrySelected() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyCurrencyOptionChangedAndCurrencyRatesUpdatedBasedOnCountrySelected()[pri:3, instance:com.hybridframework.qa.testpages.CurrencyConversionTest@711f39f9]" name="verifyCurrencyOptionChangedAndCurrencyRatesUpdatedBasedOnCountrySelected" duration-ms="16665" started-at="2021-03-27T16:36:25 BDT" finished-at="2021-03-27T16:36:42 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCurrencyOptionChangedAndCurrencyRatesUpdatedBasedOnCountrySelected -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.hybridframework.qa.testpages.CurrencyConversionTest@711f39f9]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-03-27T16:36:42 BDT" finished-at="2021-03-27T16:36:42 BDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyCurrencyOptionChangedAndCurrencyRatesUpdatedBasedOnCountrySelected status=SUCCESS method=CurrencyConversionTest.verifyCurrencyOptionChangedAndCurrencyRatesUpdatedBasedOnCountrySelected()[pri:3, instance:com.hybridframework.qa.testpages.CurrencyConversionTest@711f39f9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="verifyLossAmountWhenBankProviderAmountForSellingIsLowerThanTheCompanyProvidedAmount()[pri:4, instance:com.hybridframework.qa.testpages.CurrencyConversionTest@711f39f9]" name="verifyLossAmountWhenBankProviderAmountForSellingIsLowerThanTheCompanyProvidedAmount" duration-ms="20527" started-at="2021-03-27T16:36:42 BDT" finished-at="2021-03-27T16:37:03 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLossAmountWhenBankProviderAmountForSellingIsLowerThanTheCompanyProvidedAmount -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.hybridframework.qa.testpages.CurrencyConversionTest@711f39f9]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-03-27T16:36:42 BDT" finished-at="2021-03-27T16:36:42 BDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.hybridframework.qa.testpages.CurrencyConversionTest.verifyLossAmountWhenBankProviderAmountForSellingIsLowerThanTheCompanyProvidedAmount() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.hybridframework.qa.testpages.CurrencyConversionTest@711f39f9]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-03-27T16:37:03 BDT" finished-at="2021-03-27T16:37:03 BDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLossAmountWhenBankProviderAmountForSellingIsLowerThanTheCompanyProvidedAmount status=SUCCESS method=CurrencyConversionTest.verifyLossAmountWhenBankProviderAmountForSellingIsLowerThanTheCompanyProvidedAmount()[pri:4, instance:com.hybridframework.qa.testpages.CurrencyConversionTest@711f39f9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.hybridframework.qa.testpages.CurrencyConversionTest@711f39f9]" name="tearDown" is-config="true" duration-ms="140" started-at="2021-03-27T16:37:03 BDT" finished-at="2021-03-27T16:37:03 BDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.hybridframework.qa.testpages.CurrencyConversionTest -->
+    </test> <!-- FeatureTest -->
+  </suite> <!-- RegressionSuite -->
+</testng-results>

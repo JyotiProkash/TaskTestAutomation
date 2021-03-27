@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RegressionSuite">
+    <listeners>
+        <listener class-name="com.hybridframework.qa.helper.listener.TestListener"></listener>
+    </listeners>
+
+    <test name="FeatureTest">
+        <classes>
+            <class name="com.hybridframework.qa.testpages.CurrencyConversionTest"></class>
+        </classes>
+    </test>
+</suite>
