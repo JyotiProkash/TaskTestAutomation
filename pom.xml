@@ -16,8 +16,8 @@
         <selenium.java.version>4.0.0-alpha-5</selenium.java.version>
         <selenium.server.version>4.0.0-alpha-2</selenium.server.version>
         <testng.version>7.1.0</testng.version>
-        <apache.poi.version>4.1.2</apache.poi.version>
-        <apache.poi.ooxml.version>4.1.2</apache.poi.ooxml.version>
+        <apache.poi.version>5.2.1</apache.poi.version>
+        <apache.poi.ooxml.version>5.2.1</apache.poi.ooxml.version>
         <apache.poi.ooxml.schema>4.1.2</apache.poi.ooxml.schema>
         <apache.commons.codec>1.14</apache.commons.codec>
         <apache.xmlbeans.version>3.1.0</apache.xmlbeans.version>
